@@ -26,6 +26,12 @@ I work with AI coding assistants (Claude Code) as my main tool. I own the specif
 - **[Hardware License Keys](https://github.com/mmereu97/hardware-license-key-system)**: Ed25519-signed, hardware-bound licensing; includes a review of what was wrong with my own v1.
 - **[Cube Coach](https://github.com/mmereu97/cube-coach)** · **[Chess Analysis Board](https://github.com/mmereu97/chess-analysis-board)**: Bluetooth smart-cube trainer and in-browser Stockfish analysis.
 
+### 📱 Android apps I use every day (Flutter)
+- **[Moon Hunter](https://github.com/mmereu97/moon-hunter-mobile)**: moon-photography planner with a live sky compass, time shift, a year-long opportunity scan and map planning; fully offline.
+- **[Monastery Finder](https://github.com/mmereu97/monastery-finder)**: 661 Orthodox monasteries in Romania sorted by distance and direction, with a map and a pilgrimage journal.
+- **[Memoratus](https://github.com/mmereu97/memoratus)**: learn texts by heart with a reveal ruler and a first-letter mode.
+- **[MemoRec](https://github.com/mmereu97/memo-rec)**: one-tap audio recorder with quality presets and auto-stop.
+
 ### 🧭 How I work
 - **I learn the domain from the experts.** For the audit platform I knew nothing about auditing, so I set up an interview where Claude questioned an auditor for hours, asking after every topic whether anything was missing. That became the specification.
 - **Rules written down, then tested.** Business rules and known pitfalls live in the specification; the tests hold the code to them.
