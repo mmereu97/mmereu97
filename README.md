@@ -41,6 +41,7 @@ I work with AI coding assistants (Claude Code) as my main tool. I own the specif
 **Data:** Python · PySpark · Spark SQL · Databricks · Delta Lake · DuckDB · Parquet · pandas · Scrapy · Playwright
 **Back end & databases:** FastAPI · SQLite (FTS5) · PostgreSQL · MySQL · Alembic · pytest
 **Front end & desktop:** React · PySide6 / PyQt · Three.js · Leaflet
+**Mobile:** Flutter · Dart · Android · flutter_map (OpenStreetMap) · GPS & compass sensors · audio recording · local notifications
 **AI & audio:** Google Gemini (multimodal) · SpeechBrain · Silero VAD · Edge TTS
 **Ops:** Docker · Linux · Caddy · NAS · VPN (Tailscale, WireGuard)
 
