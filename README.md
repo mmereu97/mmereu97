@@ -20,6 +20,7 @@ I work with AI coding assistants (Claude Code) as my main tool. I own the specif
 - **[Cucuvel & Rina](https://github.com/mmereu97/cucuvel-and-rina)**: an AI puppet theatre for children; the characters see, hear and recognise who is speaking, teach lessons and translate into nine languages.
 - **[Hunter Protocol](https://github.com/mmereu97/hunter-protocol)**: adaptive psychometric engine; 110 axes, 1,101 questions, a three-wave exam and 74 synergy rules.
 - **[Desktop Voice Assistant](https://github.com/mmereu97/desktop-voice-assistant)**: talk to Gemini hands-free; it looks at your screen only when the question needs it.
+- **[Second Brain AI](https://github.com/mmereu97/second-brain-ai)**: an Obsidian vault maintained by an AI agent: hand-off notes, rules with history, push notifications with quiet hours enforced in code.
 
 **Desktop & tools**
 - **[BioCore Engine](https://github.com/mmereu97/biocore-engine)**: body-composition tracker that separates fat loss from water noise.
